@@ -175,9 +175,3 @@ void Package::print() const
 			"\n Cost Per Ounce is \t\t" << costPerOunce <<
 			"\n Total is \t\t\t" << calculateCost();
 }
-
-void Package::printTotal() const
-{
-	cout << "\n Total is \t\t\t" << calculateCost();
-}
-

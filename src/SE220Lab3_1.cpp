@@ -22,7 +22,6 @@ int main()
 	cout << fixed << setprecision(2);
 
 	p.print();
-	//p.printTotal();
 
 	TwoDayPackage tP("Tony Stark", "8729 425th Avenue", "New York", "NY", "78351", "Wade Wilson",
 			"4516 60th Street", "New York", "NY", "74623", 5, 1.25, 3);

@@ -55,7 +55,6 @@ public:
 
 	double calculateCost() const; // calculate cost method
 	void print() const; // print cost method
-	void printTotal() const; // print total cost method
 
 protected:
 	std::string nameS; //sender name
